@@ -1,0 +1,71 @@
+.section{
+	width: 30%;
+	background: #fff;
+	box-shadow: 4px 12px 18px -8px #848484;
+	margin: 50px auto;
+}
+.heading h2{
+	text-align: center;
+	padding: 30px 0px;
+	background: orange;
+	color: #fff;
+	font-family: font-family: 'Ephesis', cursive;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	border-radius: 20px 20px 0px 0px;
+}
+.main-form{
+	padding: 20px 40px;
+}
+.form-group .form-control {
+	width: 80%;
+	padding: 15px 17px;
+	border-radius: 50px;
+	background: #e6e6e6;
+	border: none;
+	margin: 10px 0;
+}
+
+.my-text{
+	text-align: right;
+}
+
+.my-text p{
+	font-family: arial;
+}
+.my-text a{
+     text-decoration: none;
+     color: orange;
+}
+.my-button{
+     text-align: center;
+     padding: 30px 0;
+}
+.my-button .button{
+	background: orange;
+	padding: 10px;
+	border: 2px solid #fff;
+	border-radius: 50px;
+	color: #fff;
+	font-size: 20px;
+	cursor: pointer;
+	transition: 0.5s all ease;
+	width: 100%;
+}
+.my-button .button:hover{
+	background: none;
+    border: 2px solid #3725a4;
+    color:  #3725a4;
+}
+.text{
+	text-align: center;
+	
+}
+.text p{
+	color: #757474;
+}
+.text h3 a{
+	color:  orange;
+	text-transform: uppercase;
+	text-decoration: none;
+}
